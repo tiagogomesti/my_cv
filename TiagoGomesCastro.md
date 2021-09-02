@@ -1,7 +1,7 @@
 # **Tiago Gomes Castro**
 Brasileiro, solteiro, 34 anos
-Rua Tibúrcio Pereira, 341. Bloco 7, apartamento 204. Cajazeiras, Fortaleza/CE
-Telefone: 55 85 9 9994 5740 
+Rua Tibúrcio Pereira, 341. Bloco 7, apartamento 204. Cajazeiras, Fortaleza/CE, Brasil
+Telefone: +55 85 9 9994 5740 
 Email: tiagogomes.ti@gmail.com
 Linkedin: https://www.linkedin.com/in/tiagogomescastro
 
@@ -16,20 +16,19 @@ Linkedin: https://www.linkedin.com/in/tiagogomescastro
 ---
 ## **Experiência Profissional**
 
-* **Janeiro/2021 - Atualmente: Sistronix **
-
+* **Janeiro/2021 - Atualmente: Sistronix**
     **Cargo**: Desenvolvedor de Firmware
     **Principais Atividades**: Desenvolvimento de firmware para equipamentos de trânsito, utilizando o FreeRTOS, disponibilizado dentro do stm32cubeIDE.
 
     
 
-* **Setembro/2019 – Janeiro/2021: Eletra Energy Solutions**
+* **Setembro/2019 – Janeiro/2021: Eletra Energy Solutions(Hexing Group)**
     **Cargo**: Analista de Firmware
     **Principais Atividades**: Desenvolvimento de firmware para uma NiC (Network interface card) com intuito de possibilitar comunicação para medidores de energia inteligentes. A comunicação era via LoRa.
     
     
     
-* **Abril/2016 – Setembro/2019: Atlanta Tecnologia da Informação**
+* **Abril/2017 – Setembro/2019: Atlanta Tecnologia da Informação**
     **Cargo**: Desenvolvedor de firmware
     **Principais Atividades**: Projetos de firmware desenvolvidos para serem embarcados em radares de
     velocidade. Microprocessador utilizado: PIC.
@@ -62,13 +61,11 @@ Linkedin: https://www.linkedin.com/in/tiagogomescastro
 ## **Qualificações**
 
 * Nível de Inglês intermediário
-
+* Experiências em projetos de sistemas embarcados.
 * Experiências em projetos com arquitetura ARM da ST microelectronics
-
+* FREERTOS
 * Versionamento Git
-
 * Manuseio de equipamentos de bancada (Osciloscópios, Geradores de Sinais, Multímetros, etc...)
-
 * Sistemas Operacionais: Linux, Windows.
 
   
