@@ -1,127 +1,119 @@
 # **Tiago Gomes Castro**
-Brasileiro, solteiro, 34 anos
-Rua Tibúrcio Pereira, 341. Bloco 7, apartamento 204. Cajazeiras, Fortaleza/CE, Brasil
-Telefone: +55 85 9 9994 5740 
+Brazilian, 35 years old
+Actually living in Porto, Portugal
 Email: tiagogomes.ti@gmail.com
 Linkedin: https://www.linkedin.com/in/tiagogomescastro
 
 ---
-## **Formação**
-
-* Engenheiro de Teleinformática, com Ênfase em Sistemas de Computação 
-    Conclusão: 2015.2 
-    Universidade Federal do Ceará (UFC)
-    
+## **Degree**
+* Teleinformatics Engineering with Emphasis at Computers Systems
+    Conclusion: 2015.2 
+    Federal University of Ceará (UFC)
     
 ---
-## **Experiência Profissional**
+## **Professional Experience**
 
-* **Janeiro/2021 - Atualmente: Sistronix**
-    **Cargo**: Desenvolvedor de Firmware
-    **Principais Atividades**: Desenvolvimento de firmware para equipamentos de trânsito, utilizando o FreeRTOS, disponibilizado dentro do stm32cubeIDE.
+* **November/2021 - Actually**: Capgemini Engineering
+    * **Location**: Porto - Portugal
+    * **Position**: Consultant Advance Engineer
+    * **Website**: https://www.capgemini-engineering.com
+    * **Main Activities**: 
+      1. Embedded Automotive Development - Powertrain domain
+      1. Project's benches maintainer
+      1. Team technical leader
 
+* **January/2021 - October/2021**: Systronix
+    * **Location**: Fortaleza/Ceará - Brazil
+    * **Position**: Firmware Developer
+    * **Main Activity**: Firmware development of traffic speed measurement devices, using FreeRTOS available on STM32cubeIde environment. 
     
+* **September/2019 – January/2021: Eletra Energy Solutions(Hexing Group)**
+    * **Location**: Fortaleza/Ceará - Brazil
+    * **Position**: Firmware Analyst
+    * **Website**: http://www.eletraenergy.com
+    * **Main Activity**: Firmware developing for a Nic(Network interface card) aiming communication to smart electric meters using LoRa communication protocols.    
+    
+* **April/2017 – September/2019: Atlanta Information Technology**
+    * **Location**: Fortaleza/Ceará - Brazil
+    * **Position**: Firmware Developer
+    * **Website**: https://www.atlantatecnologia.com.br
+    * **Main Activity**: Firmware developing of traffic speed measurement device based on PIC micro controller
+    
+* **May/2016 –  March/2017: INPE – National Spacial Research Institute**
+    * **Location**: Fortaleza/Ceará - Brazil
+    * **Position**: Model Based Designer - CNPQ Internship 
+    * **Website**: https://www.gov.br/inpe/pt-br
+    * **Main Activity**: Development and implementing, on Xilinx FPGA device, a system to process messages of Brazilian Spacial Data Collect program
+    
+* **February/2014 - September/2015: LESC - Computing Systems Engineering Laboratory**
+  * **Location**: Fortaleza/Ceará - Brazil
+  * **Position**: Firmware Developer.
+  * **Website**: http://site.lesc.freeddns.org/
+  * **Main Activity**: Firmware development of a core used to signal processing of analogical telephony system. The code was written in assembly language of proprietary softcore processor made by Siemens.
+  
+* **July/2010 - December/2013: LESC - Computing Systems Engineering Laboratory**
+  * **Location**: Fortaleza/Ceará - Brazil
+  * **Website**: http://site.lesc.freeddns.org/
+  * **Position**: R&D Internship.
+  * **Main Activity**: Research and Development in Networking on Chip (NoC) using VHDL and C as developing languages
+  
+## **Qualifications**
+* English Level: Actually coursing B2
+* Experience at Embedded Systems development
+* Experience at ST microelectronics micro controllers projects
+* Intermediate experience on FREERTOS
+* Git versioning
+* Laboratory measurements equipments handling (Oscilloscope, Signals generator, Multimeters, etc...)
+* Operational Systems: Linux and Windows.
 
-* **Setembro/2019 – Janeiro/2021: Eletra Energy Solutions(Hexing Group)**
-    **Cargo**: Analista de Firmware
-    **Principais Atividades**: Desenvolvimento de firmware para uma NiC (Network interface card) com intuito de possibilitar comunicação para medidores de energia inteligentes. A comunicação era via LoRa.
-    
-    
-    
-* **Abril/2017 – Setembro/2019: Atlanta Tecnologia da Informação**
-    **Cargo**: Desenvolvedor de firmware
-    **Principais Atividades**: Projetos de firmware desenvolvidos para serem embarcados em radares de
-    velocidade. Microprocessador utilizado: PIC.
-    
-    
-    
-* **Maio/2016 –  Março/2017: INPE – Instituto Nacional de Pesquisas Espaciais**
-    **Cargo**: Bolsista PCI - CNPQ
-    **Principais Atividades**: Desenvolvimento e síntese de hardware (implementação em FPGA), de sistemas
-    computacionais para aplicações espaciais, como a comunicação entre aplicações em solo e satélites do sistema brasileiro de coleta de dados espaciais..
-    
-    
-    
-* **Fevereiro/2014 - Setembro/2015: LESC - Laboratório de Engenharia de Sistemas de Computação**
-  **Cargo**: Desenvolvedor de Firmware.
-  **Principais atividades**: Desenvolvimento de firmware para processamento de sinais digitalizados de
-  telefonia analógica. Os códigos foram implementados em assembly para ser executado em um softcore sintetizado em uma FPGA. O projeto foi realizado no Lesc, mas era um projeto da Siemens..
-  **Gerente do projeto:** Fábio Cisne Ribeiro – 55 85 9 8737 0000
-  
-  
-  
-* **Julho/2010 - Dezembro/2013: LESC - Laboratório de Engenharia de Sistemas de Computação**
-  **Cargo**: Bolsista de P&D.
-  **Professor Orientador**: Jarbas Silveira
-  **Principais atividades**: Pesquisa e desenvolvimento em NoC's (Network on Chip). Utilizando VHDL e C na implementação e simulação de modelos de hardware.
-  
-  
 ---
+## **Courses**
 
-## **Qualificações**
-
-* Nível de Inglês intermediário
-* Experiências em projetos de sistemas embarcados.
-* Experiências em projetos com arquitetura ARM da ST microelectronics
-* FREERTOS
-* Versionamento Git
-* Manuseio de equipamentos de bancada (Osciloscópios, Geradores de Sinais, Multímetros, etc...)
-* Sistemas Operacionais: Linux, Windows.
-
-  
-
----
-## **Cursos**
-
-* **Maio/2018**
-  Embedded Systems - Shape The World: Microcontroller Input/Output
-  Carga Horária: 40 horas
-  Online: EDX
+* **May/2018**
+  Embedded Systems - Shape The World: Micro controller Input/Output
+  Workload: 40 hours
+  Provider: EDX
   Link: https://www.edx.org/es/course/embedded-systems-shape-the-world-microcontroller-inputoutput
 
-* **Fevereiro/2016**
-  Introdução ao Linux Embarcado
-  Carga Horária: 20 Horas
-  Instrutor: Prof. Luc Deneire - Ecole Polytechnique Universitaire
+* **February/2016**
+  Introducing of Embedded Linux
+  Provider: Professor at University of Nice Sophia-Antipolis (https://www.linkedin.com/in/luc-deneire-7116051)
 
-* **Setembro/2010**
-  Linguagem de descrição de hardware – VHDL
-  Carga Horária: 20 Horas
+* **September/2010**
+  VHDL Language
+  Workload: 20 Hours
 
-* **Julho/2010**
-  Programação Orientada à Objetos com Java
-  Carga Horária: 40 Horas.
-  
+* **July/2010**
+  Object Oriented Programming using Java
+  Workload: 40 Hours.
   
 ---
-## Outras Experiências
+## Extracurricular Experiences
 
-* **Outubro/2014**
-  Instrutor: Minicurso de VHDL
-  Carga Horária: 12 Horas.
-* **Novembro/2013**
-  Instrutor: Minicurso de VHDL
-  Carga Horária: 14 Horas.
-* **Agosto/2013 – Novembro/2013**
-  Monitoria: Sistemas de Computação
-  Atividades: Ajudar os alunos no laboratório da disciplina, na aplicação dos conceitos de sistemas
-  operacionais, tendo como Linux, o sistema operacional utilizado.
-* **Abril/2013 – Novembro/2013**
-  Monitoria: Projeto Lógico Digital
-  Atividades: Ajudar os alunos no laboratório da disciplina, na simulação e montagem de circuitos digitais.
-* **Abril/2013 – Julho/2013**
-  Monitoria: Sistemas Microprocessados
-  Atividades: Ajudar os alunos no laboratório da disciplina, na programação ASSEMBLY para o processador
-  8086, da intel.
-* **20/10/2013**
-  Encontros Universitários 2011 – UFC
-  Trabalho: THOR: Uma rede intrachip para sistemas de tempo real
-  Participação no trabalho: Co-Autor
-* **19/10/2013**
-  Encontros Universitários 2011 – UFC
-  Trabalho: Simulação de redes intrachip utilizando OMNET++
-  Participação no trabalho: Co-Autor
-* **19/10/2013**
-  Encontros Universitários 2011 – UFC
-  Trabalho: Ambiente de geração e análise de tráfego para redes intrachip
-  Participação no trabalho: Co-Autor
+* **October/2014**
+  Instructor: VHDL Course
+  Workload: 12 Hours.
+* **November/2013**
+  Instructor: VHDL Course
+  Workload: 14 Hours.
+* **August/2013 – November/2013**
+  Teaching Assistance: Computer Systems
+* **April/2013 – November/2013**
+  Teaching Assistance: Digital Electronic
+* **April/2013 – July/2013**
+  Teaching Assistance: Microprocessor Systems 
+* **October/2013**
+  University meetings 2011 – Federal University from Ceará
+  Work: THOR: A network intra chip for real time systems
+  Link to resume: http://sysprppg.ufc.br/eu/2011/Resumos/wrappers/MostrarResumo.php?cpf=44100353391&cod=002
+  Participated as Co-Author
+* **October/2013**
+  University meetings 2011 – Federal University from Ceará
+  Work: Simulation of intra chip networks using OMNET++
+  Link to resume: http://sysprppg.ufc.br/eu/2011/Resumos/wrappers/MostrarResumo.php?cpf=44100353391&cod=003
+  Participated as Co-Author
+* **October/2013**
+  University meetings 2011 – Federal University from Ceará
+  Work:  Generator environment and analysis of intra chip network traffic
+  Link to resume: http://sysprppg.ufc.br/eu/2011/Resumos/wrappers/MostrarResumo.php?cpf=44100353391&cod=004
+  Participated as Co-Author
