@@ -1,8 +1,9 @@
 # **Tiago Gomes Castro**
-Brazilian, 35 years old
-Actually living in Porto, Portugal
+Brazilian, 36 years old
+Actually living in Porto, Portugal 
 Email: tiagogomes.ti@gmail.com
 Linkedin: https://www.linkedin.com/in/tiagogomescastro
+GitHub: https://github.com/tiagogomesti
 
 ---
 ## **Degree**
@@ -15,12 +16,15 @@ Linkedin: https://www.linkedin.com/in/tiagogomescastro
 
 * **November/2021 - Actually**: Capgemini Engineering
     * **Location**: Porto - Portugal
-    * **Position**: Consultant Advance Engineer
+    * **Position**: Professional B2 Engineer
     * **Website**: https://www.capgemini-engineering.com
     * **Main Activities**: 
-      1. Embedded Automotive Development - Powertrain domain
-      1. Project's benches maintainer
-      1. Team technical leader
+      * Embedded Automotive Development - Powertrain Domain 
+        * Team technical leader
+        * Architecture
+        * Development
+        * Unit Test
+      * Project's Benches Maintainer
 
 * **January/2021 - October/2021**: Systronix
     * **Location**: Fortaleza/Ceará - Brazil
@@ -57,14 +61,25 @@ Linkedin: https://www.linkedin.com/in/tiagogomescastro
   * **Position**: R&D Internship.
   * **Main Activity**: Research and Development in Networking on Chip (NoC) using VHDL and C as developing languages
   
-## **Qualifications**
-* English Level: Actually coursing B2
-* Experience at Embedded Systems development
-* Experience at ST microelectronics micro controllers projects
-* Intermediate experience on FREERTOS
+---
+## **Hard Skills**
+* ARM Architecture
+* STM32 ARM based Micro Controllers
+* PIC Micro Controllers
+* Intermediate knowledge in FREERTOS
 * Git versioning
-* Laboratory measurements equipments handling (Oscilloscope, Signals generator, Multimeters, etc...)
+* Laboratory measurements equipments handling (Oscilloscope, Signals generator, Multimeter, etc...)
+* English Level: Actually coursing B2
 * Operational Systems: Linux and Windows.
+
+---
+## **Soft Skills**
+* Problem-solving
+* Teamwork
+* Leadership
+* Attention to detail
+* Time management
+* Interpersonal Skills
 
 ---
 ## **Courses**
