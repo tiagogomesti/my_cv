@@ -24,7 +24,7 @@ GitHub: https://github.com/tiagogomesti
         * Architecture
         * Development
         * Unit Test
-      * Project's Benches Maintainer
+      * Project Benches Maintainer
 
 * **January/2021 - October/2021**: Systronix
     * **Location**: Fortaleza/Ceará - Brazil
@@ -63,14 +63,18 @@ GitHub: https://github.com/tiagogomesti
   
 ---
 ## **Hard Skills**
+* Experience in C Development
+* Beginner/Intermediary in C++ Development
+* Using of Python Language to write some scripts
+* CMake
+* Intermediate knowledge in FREERTOS
+* Operational Systems: Linux and Windows.
 * ARM Architecture
 * STM32 ARM based Micro Controllers
 * PIC Micro Controllers
-* Intermediate knowledge in FREERTOS
 * Git versioning
 * Laboratory measurements equipments handling (Oscilloscope, Signals generator, Multimeter, etc...)
 * English Level: Actually coursing B2
-* Operational Systems: Linux and Windows.
 
 ---
 ## **Soft Skills**
