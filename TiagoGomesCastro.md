@@ -29,19 +29,27 @@ GitHub: https://github.com/tiagogomesti
 * **January/2021 - October/2021**: Systronix
     * **Location**: Fortaleza/Ceará - Brazil
     * **Position**: Firmware Developer
-    * **Main Activity**: Firmware development of traffic speed measurement devices, using FreeRTOS available on STM32cubeIde environment. 
+    * **Main Activities**: 
+      * Firmware development to traffic speed measurement devices
+      * FREERTOS Firmware development to a STM micro controller
+      * Digital signal processing to interpret voltage signal from ADC micro controller interface
     
 * **September/2019 – January/2021: Eletra Energy Solutions(Hexing Group)**
     * **Location**: Fortaleza/Ceará - Brazil
     * **Position**: Firmware Analyst
     * **Website**: http://www.eletraenergy.com
-    * **Main Activity**: Firmware developing for a Nic(Network interface card) aiming communication to smart electric meters using LoRa communication protocols.    
+    * **Main Activities**: 
+      * Porting from LoRaWAN library to a NiC(Network interface card) interfacing SX1276 LoRa tranceiver and STM32l071cz micro controller
+        * Interfaces used in this work: RTC, SPI, UART, Timers, Interrupts, DMA, I2C
+      * Used Cosem/DLMS protocols to interface NiC with Electric Smart Meter
     
 * **April/2017 – September/2019: Atlanta Information Technology**
     * **Location**: Fortaleza/Ceará - Brazil
     * **Position**: Firmware Developer
     * **Website**: https://www.atlantatecnologia.com.br
-    * **Main Activity**: Firmware developing of traffic speed measurement device based on PIC micro controller
+    * **Main Activities**: 
+      * Used digital signal processing methods to interpret a RLC circuit aiming to measure vehicle speed
+      * Firmware developing using PIC18F micro controller
     
 * **May/2016 –  March/2017: INPE – National Spacial Research Institute**
     * **Location**: Fortaleza/Ceará - Brazil
