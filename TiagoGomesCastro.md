@@ -10,6 +10,7 @@ GitHub: https://github.com/tiagogomesti
 * Teleinformatics Engineering with Emphasis at Computers Systems
     Conclusion: 2015.2 
     Federal University of Ceará (UFC)
+    Degree validated in Portugal under 220230069052 registration number. It can be checked at https://www.dges.gov.pt/RecOn/Validacao
     
 ---
 ## **Professional Experience**
