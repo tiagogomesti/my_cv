@@ -1,5 +1,5 @@
 # **Tiago Gomes Castro**
-Brazilian, 36 years old
+Brazilian, 37 years old
 Actually living in Porto, Portugal 
 Email: tiagogomes.ti@gmail.com
 Linkedin: https://www.linkedin.com/in/tiagogomescastro
@@ -13,16 +13,61 @@ GitHub: https://github.com/tiagogomesti
     Degree validated in Portugal under 220230069052 registration number. It can be checked at https://www.dges.gov.pt/RecOn/Validacao
     
 ---
-## **Professional Experience**
+## **Courses**
+* **October/2023**
+  TESSY 4
+  Workload: 20h
+  Provider: Hitex Embedded Tools & Solutions
+  Certificate Link: https://bit.ly/Tessy-4-Certificate
 
-* **November/2021 - Actually**: Capgemini Engineering
+* **October/2023**
+  Functional Safety Training - Modules 1 and 4
+  Workload: 16h
+  Provider: TÜV SÜD Rail GmbH
+  Certificate Link: https://bit.ly/FuSa_Training
+
+* **May/2018**
+  Embedded Systems - Shape The World: Micro controller Input/Output
+  Workload: 40 hours
+  Provider: EDX
+  Course Link: https://www.edx.org/es/course/embedded-systems-shape-the-world-microcontroller-inputoutput
+
+* **February/2016**
+  Introducing of Embedded Linux
+  Provider: Professor at University of Nice Sophia-Antipolis (https://www.linkedin.com/in/luc-deneire-7116051)
+
+* **September/2010**
+  VHDL Language
+  Workload: 20 Hours
+
+* **July/2010**
+  Object Oriented Programming using Java
+  Workload: 40 Hours.
+
+---
+## **Professional Experience**
+* **July/2023 - Actually**: Intellias
+    * **Location**: Porto - Portugal
+    * **Position**: Strong Middle Embedded Engineer
+    * **Website**: https://intellias.com/
+    * **Main Activities**: 
+      * Automotive Embedded - Ultrasonic sensors
+        * Detail Design
+        * Development 
+        * Unit Test
+
+* **November/2021 - July/2023**: Capgemini Engineering
     * **Location**: Porto - Portugal
     * **Position**: Professional B2 Engineer
     * **Website**: https://www.capgemini-engineering.com
     * **Main Activities**: 
-      * Embedded Automotive Development - Powertrain Domain 
+      * Automotive Embedded - HMI Domain 
         * Team technical leader
-        * Architecture
+        * Detail Design
+        * Development 
+        * Unit Test
+      * Automotive Embedded Development - Powertrain Domain 
+        * Team technical leader
         * Development
         * Unit Test
       * Project Benches Maintainer
@@ -94,27 +139,6 @@ GitHub: https://github.com/tiagogomesti
 * Time management
 * Interpersonal Skills
 
----
-## **Courses**
-
-* **May/2018**
-  Embedded Systems - Shape The World: Micro controller Input/Output
-  Workload: 40 hours
-  Provider: EDX
-  Link: https://www.edx.org/es/course/embedded-systems-shape-the-world-microcontroller-inputoutput
-
-* **February/2016**
-  Introducing of Embedded Linux
-  Provider: Professor at University of Nice Sophia-Antipolis (https://www.linkedin.com/in/luc-deneire-7116051)
-
-* **September/2010**
-  VHDL Language
-  Workload: 20 Hours
-
-* **July/2010**
-  Object Oriented Programming using Java
-  Workload: 40 Hours.
-  
 ---
 ## Extracurricular Experiences
 
