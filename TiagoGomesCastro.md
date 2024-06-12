@@ -5,14 +5,14 @@ Email: tiagogomes.ti@gmail.com
 Linkedin: https://www.linkedin.com/in/tiagogomescastro
 GitHub: https://github.com/tiagogomesti
 
----
+
 ## **Degree**
 * Teleinformatics Engineering with Emphasis at Computers Systems
     Conclusion: 2015.2 
     Federal University of Ceará (UFC)
     Degree validated in Portugal under 220230069052 registration number. It can be checked at https://www.dges.gov.pt/RecOn/Validacao
     
----
+
 ## **Courses**
 * **October/2023**
   TESSY 4
@@ -44,7 +44,7 @@ GitHub: https://github.com/tiagogomesti
   Object Oriented Programming using Java
   Workload: 40 Hours.
 
----
+
 ## **Professional Experience**
 * **July/2023 - Actually**: Intellias
     * **Location**: Porto - Portugal
@@ -85,7 +85,7 @@ GitHub: https://github.com/tiagogomesti
     * **Position**: Firmware Analyst
     * **Website**: http://www.eletraenergy.com
     * **Main Activities**: 
-      * Porting from LoRaWAN library to a NiC(Network interface card) interfacing SX1276 LoRa tranceiver and STM32l071cz micro controller
+      * Porting from LoRaWAN library to a NiC(Network interface card) interfacing SX1276 LoRa transceiver and STM32l071cz micro controller
         * Interfaces used in this work: RTC, SPI, UART, Timers, Interrupts, DMA, I2C
       * Used Cosem/DLMS protocols to interface NiC with Electric Smart Meter
     
@@ -115,11 +115,11 @@ GitHub: https://github.com/tiagogomesti
   * **Position**: R&D Internship.
   * **Main Activity**: Research and Development in Networking on Chip (NoC) using VHDL and C as developing languages
   
----
+
 ## **Hard Skills**
-* Experience in C Development
+* Experience in C Embedded Development 
 * Beginner/Intermediary in C++ Development
-* Using of Python Language to write some scripts
+* Python Language to write tests scripts when necessary
 * CMake
 * Intermediate knowledge in FREERTOS
 * Operational Systems: Linux and Windows.
@@ -127,10 +127,11 @@ GitHub: https://github.com/tiagogomesti
 * STM32 ARM based Micro Controllers
 * PIC Micro Controllers
 * Git versioning
+* SVN versioning
 * Laboratory measurements equipments handling (Oscilloscope, Signals generator, Multimeter, etc...)
-* English Level: Actually coursing B2
+* English Level: B2
 
----
+
 ## **Soft Skills**
 * Problem-solving
 * Teamwork
@@ -139,7 +140,7 @@ GitHub: https://github.com/tiagogomesti
 * Time management
 * Interpersonal Skills
 
----
+
 ## Extracurricular Experiences
 
 * **October/2014**
